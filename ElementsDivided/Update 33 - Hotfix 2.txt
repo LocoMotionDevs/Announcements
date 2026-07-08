@@ -1,0 +1,13 @@
+**Elements Divided Update 33 – Hotfix 2**
+**Version 663**
+
+*Changelog* 
+```
+- Added Sub-Elements to rewards chest list of unlocks
+- Fixed a bug where the Element Selector UI was not updating immediately upon unlocking a Sub-Element
+- Fixed a bug where Player Settings were reverting to defaults when joining a Match in progress
+- Updated the LIV SDK to include the new LIV Streaming function on Meta Quest Standalone. 
+- Optimized VFX
+- Fixed a bug where the Water Torrent Ult would not block while charging
+- Fixed a bug where Powerups were still appearing when they are disabled in Custom Game Settings
+```

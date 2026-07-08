@@ -1,0 +1,47 @@
+**Elements Divided Update 35 – Metal And Thunder Update**
+**Version 681**
+
+*Changelog* 
+```
+- Added Sub-Elements
+	- Water
+		- Plant
+			- Plant Vine
+			- Plant Turret
+			- Vine Tentacles
+			- Poison Needle
+			- Poison Spore
+	- Earth
+		- Metal
+			- Metal Shard
+			- Metal Blades
+			- Metal Whip
+			- Metal Blast
+			- Metal Armor
+	- Fire
+		- Lightning
+			- Lightning Spear
+			- Lightning Punch
+			- Lightning Orb
+			- Lightning Vortex
+	- Air
+		- Storm
+			- Storm Cloud
+			- Storm Blast
+			- Storm Bomb
+			- Cyclone
+			- Storm Tornado
+- Adjusted Sub Elements
+	- Earth
+		- Make lava floor pierce block
+	- Fire
+		- Make the Scorched Earth technique not apply to Explosion moves
+	- Air
+		- Increase spirit form top speed from 10 -> 12
+		- Increase spirit form acceleration from 20 -> 35
+- Remove block delay after using abilities
+- Fix a bug with some dash speed boost techniques not buffing dash enough
+```
+@Patch-Notes 
+
+## THIS PATCH WAS RELEASED <t:1764892800:F>

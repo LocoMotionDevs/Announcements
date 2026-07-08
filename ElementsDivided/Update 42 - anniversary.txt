@@ -1,0 +1,37 @@
+**Elements Divided Update 42 – Anniversary Update**
+**Version 744**
+
+*Changelog* 
+```
+- Added Hand Tracking to Quest Standalone version of Elements Divided
+- Added Bhaptics Support 
+- Added new map Parking Lot
+- Added cross-promotion with Super City
+- Added 1 Year Hat
+- Added 1 Year Shader
+- Added Double XP event (goes until May 7th)
+- Adjusted Techniques
+	- Burning Embrace
+		- Damage to activate: 10 -> 5
+	- Athletics
+		- -1 point cost
+	- Blue Fire
+		- Take continuous burn damage while ability is held at max heat
+	- Aerial Obliterator
+		- While airborne earth walls deal +50% -> +35% damage
+	- Stone Stance
+		- Remove damage reduction
+		- -15% -> +15% walk speed while grounded
+	- Fleet Dexterity
+		- -1 point cost
+	- Vengeful Rage
+		- -1 point cost
+	- Water/Vine Tentacles
+		- Base range increased by 10%
+	- Aerial Artistry
+		- 30% -> 20% damage reduction while airborne
+	- Smoke
+		- Added audio cue when invisibility can be activated again
+	- Excalibur
+		- Remove boosted damage from thrown earth hammer
+```

@@ -1,0 +1,35 @@
+**Elements Divided Update 36 – Winter Wonderland Update**
+**Version 687**
+
+*Changelog* 
+```
+- Updated the Hub World to be a Winter Wonderland
+- Added Winter Themed Cosmetics
+	- Shaders
+		- Blizzard
+		- Eggnog
+		- Coal
+		- Ugly Sweater
+		- Festivus Shader – Enter code 040150746701 in the Join Game menu to unlock
+	- Parts
+		- Frosty Back
+		- Santa Hat Headgear - Enter code 049347145511 in the Join Game menu to unlock
+- Added Tournament Shader
+	- CornosGG
+- Added Creator Cosmetics
+	- Geko Shader
+	- Geko Hood
+- Added New Purchasable Cosmetics
+	- Added Earth Pack 
+	- Added Water Pack 
+	- Air and Fire coming soon!
+- Fixed a bug with the Loco Cape where the Loco Motion Devs logo would clip partially
+- Fixed a bug where the Metal Whips were jittering on Quest
+- Fixed a bug where there was a slight jittering affecting most Earth and Water moves
+- Fixed a bug where the Storm Tornado was appearing slightly green on PC
+- Fixed a bug where Air Vacuum was stealing Plant Turret ownership
+- Fixed a bug where you could climb Sci Fi City forcefield walls
+- Fixed a bug where Range and Speed Stat Titles were swapped in the Move List
+- Fixed a bug where lightning punch was letting you dash while in a large knockback
+```
+

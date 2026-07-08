@@ -1,0 +1,46 @@
+**Elements Divided Update 33 – Sub-Elements**
+**Version 655**
+
+*Changelog* 
+```
+- Added Sub-Elements
+	- Water
+		- Blood
+			- Blood Bow
+			- Blood Claws
+			- Blood Control
+			- Blood Grapple
+			- Blood Laser
+			- Blood Orb
+	- Earth
+		- Lava
+			- Lava Floor
+			- Lava Geyser
+			- Lava Rush
+			- Lava Shuriken
+			- Lava Stream
+			- Lava Wave	
+	- Fire
+		- Explosion
+			- Explosion Beam
+			- Explosion Blast Hands
+			- Explosion Bow	
+	- Air
+		- Spirit
+			- Spirit Bolt
+			- Spirit Form
+			- Spirit Scythe
+- Half self-knockback while on the ground
+- Orbs (Blood Orb, Fire Orb, and Water Bubble) can now collide with Wave
+- Added Tournament Animals
+	- Added Gort (Mr.Magikarp)
+	- Added Capybara (dragonrydz)
+- Update Meta Version code to match Build Code (i.e from 0.1.0 to 642)
+- Adjusted Water Dagger to require larger motion to activate
+- Optimized VFX
+- Optimized Game Performance
+- Fixed a bug that caused the below Map Damage Zone in some areas to be incorrect
+- Fixed a bug that caused an infinite loading screen after being AFK
+- Fixed a bug that prevented Water Grapple from properly Grappling on Space Rings
+- Re-enable cursors on Water Dagger
+```

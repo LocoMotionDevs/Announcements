@@ -1,0 +1,12 @@
+**Elements Divided Update 30 – Hotfix 1**
+**Version 608**
+
+*Changelog:* 
+```
+- Fixed a bug where fire bolt would sometimes explode when not charged
+- Fixed a minor memory leak
+- Fixed a bug where you could spam the fire shield
+- Fixed a bug where some cosmetic icons would appear blank
+- Fixed a bug where some cosmetic parts would be see-through
+- Fixed several other bugs with cosmetics
+```

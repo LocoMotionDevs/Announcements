@@ -1,0 +1,26 @@
+**Elements Divided Update 26 – Hotfix 2**
+**Version 537**
+
+*Changelog:* 
+```
+- Added a setting to disable Snap and Smooth turning for players with stick drift
+- Adjusted how Health and Death calculations are presented
+	- Health changes and Deaths will now wait to “verify changes” before showing the appropriate changes, I.E, a health decrease or a Player dying
+	- This change is to try to fix a “bug” that happens sometimes when the game recalculates what happened, which was causing it to look like Players regain health immediately after taking damage, or the “Death” sound effect playing when the Player was in fact not actually dead. 
+- Adjusted Interaction Zones
+	- Players can no longer be moved or picked up by other players when in Interaction Zones in front of UI Screens in the Hub World
+- Adjusted Lobby Kicking
+	- Host Kicking is now disabled in Public Lobbies
+	- Hosts can still Kick players from Private Lobbies
+	- Kicking in Public Lobbies might be re-added at a later date in the form of Vote Kicking or something similar
+- Adjusted Dashes
+	- Dash charges now reset on respawn
+- Adjusted VoicePatrol
+- Nerf Air Vacuum overall power
+- Increased Stamina effect to reduce Spamming of Abilities
+- Improved loading time
+- Fixed a bug that sometimes caused you to spawn next to Enemy Players
+- Fixed a bug where the Air Vacuum stopped moving Players
+- Fixed a bug with an object in the Bridge Brawl Map 
+- Fixed a bug that caused a slight game freeze when switching Elements or receiving a Level Up Notification
+```

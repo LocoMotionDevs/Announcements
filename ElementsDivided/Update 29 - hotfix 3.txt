@@ -1,0 +1,9 @@
+**Elements Divided Update 29 – Hotfix 3**
+**Version 591**
+
+*Changelog:* 
+```
+- Added loading screens
+- Fixed a bug where Announcer voice could be heard in the hub world
+- Fixed a bug for auto moderated mute duration not ticking down properly
+```

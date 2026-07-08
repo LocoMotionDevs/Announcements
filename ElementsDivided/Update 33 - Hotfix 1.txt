@@ -1,0 +1,8 @@
+**Elements Divided Update 33 – Hotfix 1**
+**Version 658**
+
+*Changelog* 
+```
+- Fixed a bug that caused lag on abilities, especially in high ping servers
+- Fixed a bug with some Explosion VFX
+```

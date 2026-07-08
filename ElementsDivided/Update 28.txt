@@ -1,0 +1,88 @@
+**Elements Divided Update 28**
+**Version 556**
+
+*Changelog:* 
+```
+- Fire Rework
+	- Fire Spear has been replaced with Fire Shield
+	- Fire Whip has been replaced with Fire Leap
+	- Added Fire Javelin 
+	- Fire Pillar VFX increase in size to match the current hitbox
+	- Fire Bolts range greatly increased
+	- Fire Orb explodes on any contact, never bounces
+- Added 11 new Techniques
+- Common
+	- Removed Fully Prepared
+	- Changed Regenerative Charge
+		- Start each match with your ultimate fully charged
+		- +20% ultimate charge rate
+	- Added Close Combat
+		- +20% damage to enemies within 5m
+	- Added Sniper
+		- +40% damage to enemies further than 20m away
+	- Added Excalibur
+		- All melee weapon attacks deal +50% damage
+- Earth
+	- Nerfed Aerial Obliterator
+		- While grounded:
+		- Earth walls deal -20% damage
+		- While airborne:
+		- Earth walls deal +50% damage
+	- Nerfed Stone Stance
+		- While grounded:
+		- +25% damage
+		- Take -50% knockback
+		- -20% walk speed
+	- Added Tremorsense
+		- You can see other players through walls if both of you are touching the ground
+		- Your earth spikes and earth trap deal +50% damage
+	- Added THE MOUNTAIN
+		- Earth boulders are 40% larger
+- Water
+	- Buffed Absolute Zero
+		- Ice moves deal +25% damage
+	- Added Squid-Man
+		- Your water tentacles have +100% reach but -50% damage
+		- +150% grapple speed
+		- +50% maximum speed
+	- Added Frostbite
+		- Damaging an enemy slows them by 30% for 3 seconds
+- Fire
+	- Buffed Burning Embrace
+		- Your attacks light targets on fire, dealing 8 damage over 4 seconds
+	- Added Rocket Thrust
+		- +50% ability flight duration
+	- Added Flaming Aura
+		- Every enemy within 5m of you catches fire
+- Air
+	- Buffed Flurry of the Winds
+		- +50% walk speed
+		- +30% dash speed
+		- +50% glider minimum speed
+	- Buffed Aerial Artistry
+		- While airborne:
+		-  -50% gravity
+		- Take -30% damage
+	- Added Air Stepping
+		- +100% dash charges
+		- +100% dash recharge rate
+		- -50% dash duration
+	- Added Blown Away
+		- +80% knockback
+- Improved Report and Mute UI
+	- Report button now has 4 categories to choose from, Verbal Abuse, Toxic Gameplay, Cheating, and Other
+	- If you are muted or voice banned, the space where the mute / deafen icons are will tell you such, and for how long
+- Improve Save System
+	- Added Error Notification if your disk would be too full to save
+- When you join a Teams game mid-match, you’ll now join the team with the fewest players
+- When you join a Rounds game mid-match, you’ll be dead until the next Round starts
+- Death Zone now moves slower inward
+- Nerf Water Grapple damage
+- Buff Earth Ground Slam speed
+- Fixed a bug that caused the Map selection to flicker between options, not allowing you to change any settings
+- (Maybe) Fixed a bug that may be causing crashes on start up
+- Fixed a bug where players could equip hidden cosmetics
+- Fixed a bug where you couldn’t remove some body parts (like hair and facial hair)
+- Fixed a bug where stamina didn’t reset on death
+- Fixed a bug that allowed players to make themselves very small
+```

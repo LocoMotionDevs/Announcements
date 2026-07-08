@@ -1,0 +1,40 @@
+**Elements Divided Update 31**
+**Version 622**
+
+*Changelog:* 
+```
+- Balance Changes
+- General
+	- Reduce Multihit damage on all moves
+	- Increase Flight Stamina on all elements
+- Earth
+	- Increase Earth Wall durability
+	- Increase Aerial Wall durability to match Grounded Wall durability
+	- Increase max speed while Earth Armor is active
+	- Make Earth Trap not phase through Walls
+- Water
+	- Give Water Bubbles a startup time delay
+- Fire
+	- Increase Flamethrower flight power
+- Air
+	- Remove Air Blast damage
+	- Increase Air Blast knockback
+	- Increase Air Blast flight power
+- Added new statue in Hub World spawn area
+- Adjusted UI interaction zones in the Hub World
+- Start showing Mastery Rank cosmetic unlocks in Rank Panel in pause menu
+- Show all Mastery Rank unlocks in reward chest panel
+- Fixed a bug where snowstorm would deal double damage
+- Fixed a bug that let Water Tentacles, Water Grapple, and Earth Hands attach to other players' bodies hands
+- Fixed a bug that let Earth Hands grab Water Tentacles and Water Grapple
+- Fixed a bug where some people were unable to host public lobbies
+- Fixed a bug where you would get an update notification having missing translations
+- Fixed a bug where you could infinitely fly by popping a Water Bubble inside another Water Bubble
+- Fixed a bug where you could Grapple your own Ice Wall, allowing for short bursts of flight
+- Fixed a bug that caused Mastery Rank cosmetics to not be locked behind Mastery Rank
+- Fixed a bug that allowed players to keep cosmetics equipped that they aren't supposed to have
+- Fixed a bug that made custom game setting dropdowns spill off screen
+- Fixed a bug in technique descriptions in Rank Panel
+- Fixed a bug that would show empty mastery unlocks in Rank Panel
+- Removed unseen Mastery Rank rewards notification
+```

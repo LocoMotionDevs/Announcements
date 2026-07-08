@@ -1,0 +1,55 @@
+**Elements Divided Update 38**
+**Version 703**
+
+*Changelog* 
+```
+- Added Two new Maps
+		- Fortune Spin
+		- Coliseum
+- Adjusted rejoining Matches
+	- If you rejoin after leaving a Rounds or Time match, you are no longer forced to Spectator
+- Fixed a bug where the Supporter Pack Preview Shaders were showing Shaders not included in the Pack
+- Fixed a bug where Scythes were Grabbable
+- Fixed a bug where you could Summon too many Air Sword Slashes
+- Fixed a bug where you could Summon infinite Meteor Ultimates
+- Fixed a bug where you could be repeatedly Grabbed by Metal Whips
+- Balance Changes
+	- General
+		- No ultimate charge on Perfect Block
+	- Earth:
+		- Add a 1s cooldown to summoning large Earth abilities after summoning a large Earth Wall
+		- Reduce the control that an Earth trap has over players in it
+		- The Mountain slows down your Boulders a bit
+		- Make Lava Geyser linger for a while
+		- Increase Range of Lava Rush
+	- Water:
+		- Remove the attack delay on Water Bubbles
+		- Decrease wave damage, increase Wave Durability
+		- Increase Ice Wall Damage, but not its Durability
+		- Make Ice Wall always break on hitting player
+		- Make Blood Control ignore Blocking Players
+		- Increase Poison Spore Explosion Damage, Decrease Arm Time
+		- Increase Plant Turret range, decrease Durability
+		- Increase Vine Growth Speed
+		- Plant Turrets don't give Ult Charge on Block
+	- Fire:
+		- Increase Fire Leap Acceleration, reduce Damage
+		- Increase Uncharged Fire Arrow Speed and Block Pierce
+		- Increase Fire Orb Speed and Knockback
+		- Make the Charged Fire Bolt a full 4-Might move everywhere
+		- Make Firestorm last longer and ignore Block
+		- Increased Momentum from Lightning Dash, increased Walk Speed while using Lightning Swords
+		- Increase Damage of Charged Explosive Arrow AOE
+		- Split the Explosive Beam into an inner and outer Hitbox
+		- Nerf Fire Pillar radius, add color volume to underground fx
+	- Air:
+		- Increase Air Sword slash cooldown, fix reset bug
+		- Increase Air Drill durability
+		- Increase Max Speed of Air Drill and Air Ball
+		- Nerf Air Bomb and Air Laser, but decrease Charge Time
+		- Give Storm Tornado the same 1h Speed as 2h
+		- Update Spirit Sword Slash Cooldown to match Air Sword
+		- Make Spirit Scythe Teleport you to Players
+		- Decrease Spirit Form Range
+		- Hopefully fix Air Shield Spirit Form interaction
+```

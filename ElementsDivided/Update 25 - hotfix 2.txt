@@ -1,0 +1,11 @@
+**Elements Divided Update 25 – Hotfix 2**
+**Version 527**
+
+*Changelog:* 
+```
+Added a second Backup Save
+Improved LIV title on the News Board UI
+Fixed a bug that caused Time Mode to crash lobbies, making abilities invisible and softlocking the game
+Fixed a bug that caused Element selectors to not let you change Element choice
+```
+

@@ -1,0 +1,28 @@
+**Elements Divided Update 26**
+**Version 532**
+
+*Changelog:* 
+```
+- Adjusted Voice Moderation
+	- Increased severity required to mute in some categories (meaning low level infractions aren’t muted as often)
+	- Disabled Automatic Muting in Private Lobbies
+		- Public Lobbies can no longer be made Private. 
+		- If a Private lobby is made Public, Auto Muting is turned on and cannot be turned off
+	- Added a “Report” button that can be found by clicking on a Player’s name in the Player list
+- Adjusted Level Progression
+	- Early Levels are gained faster
+	- Later levels are gained slower
+- Added Element Elite customization to Tutorial character previews
+- Added automatic import of Patch Notes to News Board UI
+- Nerfed wall multihits
+- Fixed a bug that caused your saved settings to become corrupted
+- Fixed a bug where Old Master could be hit through exit door with Elemental Abilities
+- Fixed a bug where countdown timer in in Timed Teams mode would sometimes disappear
+- Fixed a bug where experience/leveling up step of Tutorial could sometimes be skipped
+- Fixed a bug where final line of Tutorial was too quiet
+- Fixed a bug where replaying Tutorial for a new Element would play incorrect voice
+- Fixed a bug where Element Tutorial replay panel would not appear when selecting element for the first time in the Pause Menu
+- Fixed a bug where Element was always Earth on Element Tutorial replay
+- Fixed a bug where the Region Selector didn't work and you couldn't load any games
+- Fixed a bug where the Old Master animations were playing incorrectly
+```

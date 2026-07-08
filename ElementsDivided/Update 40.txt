@@ -1,0 +1,24 @@
+**Elements Divided Update 40 – Valentine’s**
+**Version 714**
+
+*Changelog* 
+```
+- Updated the Hub World graphics to include special Valentines Decorations
+- Added the Elements United Bundle (all 4 Element Packs in one) 
+- Added 4 New Techniques
+	- [Earth] Crystal
+		- Your moves have +15% damage but -1 durability
+		- Changes all your Earth graphics to be shiny green Crystals.
+	- [Water] Polar Style
+		- Initially summon the Ice version of moves instead of the Water version
+	- [Air] Smoke
+		- When you Sword Vault or hit yourself with a move, turn Invisible for 5 seconds.
+		- Smoke has a 15 second cooldown (5s on, 10s off) [Cooldown subject to change, needs feedback]
+		- -10% damage.
+		- Changes all your Air graphics to be smokey gray 
+	- [Air] Replaced Blown Away with Whirlwind
+		- When you deal damage, gain +50% speed for 5 seconds.
+- Reverted Hub World Snow
+- Fixed a bug with the controller image hints
+```
+

@@ -1,0 +1,54 @@
+**Elements Divided Update 29**
+**Version 575**
+
+*Changelog:* 
+```
+- Added custom lobby settings to Private lobbies
+    - Max players in lobby
+    - Control point
+    - Damage zone
+    - Rounds to win
+    - Number of stocks
+    - Time (minutes)
+    - Stage hazards
+    - Knockback
+- Added speaker icon next to player's names on health bar if they are speaking
+- Added new effects when receiving new, unseen rewards after leveling up
+- Added Ancient Egypt map preview video
+- Added SFX to jump pads
+- Added Frost Golem and Mech Boss footstep sounds
+- Added a damage zone under the chessboard 
+- Improved all map stage previews
+- Nerf fire shield
+	- Increase cooldown
+	- Nerf explosion damage
+	- Buff defense
+	- Improve graphics & haptics
+- Buff Fire Javelin
+	- Increase Javelin length
+	- Buff Fire AOE size
+	- Fix Fire AOE spawn position
+- Nerf Earth Hammer cooldown
+- Slightly Nerf Earth Wall sturdiness when detached
+- Slightly decrease all stamina regen
+- Nerf Squid-Man
+	Tentacle Length +100% > +70%
+	Max Speed +50% > +30%
+- Buff Flaming Aura
+	- Radius 5m > 8m
+- Adjusted VoicePatrol
+- Update Room Codes
+	- Room Codes are now Region Specific, which should make it easier for friends to join each other without having to manually switch regions
+- Update Quantum (Network Code) version
+- Fixed a bug causing Voice Ban notifications to not appear properly
+- Fixed a bug that caused the cosmetics to not be centered on the UI 
+- Fixed a bug where notifications couldn't be seen when spectating or dead
+- Fixed a bug where announcer would say "tragedy" when entering a lobby with dead players
+- Fixed a bug that caused some missing translations
+- Fixed a bug where spectators were shown at 1 death in post-match eUI
+- Fixed a bug where a player wouldn't get credit for a kill if a stage hazard dealt the final blow
+- Fixed a bug where Mech Boss could get stuck off stage
+- Fixed a bug where sand beneath arena couldn't be seen
+- Fixed a bug that caused the game to freeze/crash when ice trail interacted with some abilities
+- Fixed a bug that caused the frost golem ragdoll to not work properly
+```

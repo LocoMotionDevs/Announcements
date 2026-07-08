@@ -1,0 +1,38 @@
+**Elements Divided Update 32**
+**Version 634**
+
+*Changelog:* 
+```
+- Added setting to enable/disable all cursor indicators
+- Added Room code is now hidden if using a Streamer camera unless a button is pressed to reveal it
+- Added damage if a Player stays below stage for a bit
+- Added Custom Game Setting for disabling damage off map to Private matches
+- Disable cursor indicators for moves that shouldn't have them
+- Fixed a bug where some Player Reported names weren’t formatted correctly
+- Balance Adjustments (See Below)
+- General
+	- You lose Flight Stamina on Knockback
+	- Make Perfect Blocking not Block all damage from very high-damage moves like Ultimates 
+	- Briefly disable most Flight abilities after getting hit by a strong attack in Knockout Mode 
+- Earth
+	- Make Earth Death Trap a bit sturdier
+	- Buff Earth Meteor fall speed
+	- Buff Earth Death Trap summon speed
+- Water
+	- Nerf Water Bubble damage from 30 -> 20
+	- Make Water Atom Bomb not break on hitting a player
+	- Nerf Squid-Man bonus range from +70% -> +50%
+	- Buff Healing Blows damage penalty from -25% -> -15%
+	- Revert the input delay on Bubble when you throw it or turn it into a ring
+	- Add a delay to Bubble before it can deal damage
+	- Fix a bug where the Bubble wouldn't appear immediately when used
+	- Fix a bug where freezing a Wave into an Ice Wall would let you deal double damage
+- Air
+	- Make Air Drill and Air Bomb able to hit more moves (esp. Wave)
+	- Reduce Air Laser Flight power
+	- Slightly buff speed of Air Stream
+	- Buff Air Bomb's might (letting it break more things), but not its damage
+- Fire
+	- Reduce Fire Laser Flight power 
+	- Reduce the Fire Leap's acceleration (but not its top speed)
+```

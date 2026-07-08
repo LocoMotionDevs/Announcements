@@ -1,0 +1,8 @@
+**Elements Divided Update 42 – Hotfix 5**
+**Version 755**
+
+*Changelog* 
+```
+- Added Tomahawk Anti-Cheat 
+- Updated Terms Of Service to reflect Tomahawk Implementation
+```

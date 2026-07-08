@@ -1,0 +1,35 @@
+**Elements Divided Update 27**
+**Version 547**
+
+*Changelog:* 
+```
+- Added Achievements to unlock
+	- You can find a complete list of these in the Rank panel in the pause menu
+	- Some Beta players may have noticed cosmetics missing when the game launched. 24 of those have now been added back and are unlocked with achievements.
+- Added Ancient Egypt map
+- Added Seated Mode
+- Added Streamer Camera FOV settings
+- Added 1 original song from a community member to the Hub World playlist
+- Adjusted Reports and Voice Patrol
+- Increased Player Collider minimum height
+- Match changes
+	- Default mode is now Time
+	- Matchmaking with Quickplay will no longer always put you back into the same lobby
+	- Added a “battle royale” style damage zone that activates after a certain amount of time in a match
+		- Appears after 2 minutes on Rounds
+		- Appears after 6 minutes on Stock
+		- Doesn’t appear on Time
+	- Players can now join and play matches mid-game if they’re not on Stock
+	- Improved appearance of Water surrounding the map
+- (Maybe) Fixed a bug that caused your Rounds points to go to someone else
+- Fixed a bug where players could survive the Water death zone
+- Fixed a bug that caused all players to spawn next to each other on Gladiator map
+- Fixed a bug that allowed you to join Voice Chat even if you were on the wrong version number
+- Fixed a bug that caused the mini chicken’s health to not degen correctly
+- Fixed a bug that caused Rounds to never end if there were only spectators
+- Fixed a bug that caused the Pause Menu to jitter when rotating
+- Fixed a bug that caused the Bubble FX to show through walls
+- Fixed a bug that caused abilities to detach from your hands
+- Fixed a bug that caused some players to get a screen saying there was a “throttle error”
+- Fixed a bug that caused Swords to be deactivated when joining a game
+```

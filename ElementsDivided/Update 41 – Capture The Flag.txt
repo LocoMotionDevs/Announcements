@@ -1,0 +1,31 @@
+**Elements Divided Update 41 – Capture The Flag**
+**Version 731**
+
+*Changelog* 
+```
+- Added Capture The Flag game mode
+	- Capture The Flag plays in the Hub World Map
+- Reworked Technique System More
+	- Added Point System for Techniques
+		- You can now equip more than 2 Techniques at once
+		- You have 13 total points you can spend on Techniques. 
+		- Techniques range from 1 – 6 points each
+	- Various Techniques had their stats balanced
+	- Added 1 New Technique
+		- Athletics - +50% walk speed, +50% jump height
+- Added new Achievements
+	- Total Mastery Level 10
+	- Total Mastery Level 20
+	- Total Mastery Level 50
+	- Total Mastery Level 100
+	- Total Mastery Level 200
+- Added Tournament Prizes
+	- “Animals”
+		- Capybara [Dragonrydz]
+		- Gravestone [SSDU]
+		- Metal Deer [theElk]
+		- Big Wolf [peanutbutteronpizza]
+```
+@Patch-Notes 
+
+## THIS PATCH WAS RELEASED

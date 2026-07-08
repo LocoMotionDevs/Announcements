@@ -1,0 +1,53 @@
+**Elements Divided Update 37**
+**Version 698**
+
+*Changelog* 
+```
+- General
+	- Added a new in-game Shop
+	- Added New Purchasable Cosmetics
+		- Added Air Pack
+		- Fire Pack coming soon!
+	- Added Tournament Shaders
+		- Corvbean
+		- Dragonrydz
+	- Added joining mid match for Stock mode with same Stocks as person with the Least Stocks
+	- Added a pop up when successfully entering a Cosmetic Code
+	- Make it easier to throw Two-Handed Moves quickly
+	- Removed a feature where Matchmaking would try to prioritize placing you in Lobbies in the Hub World, which was causing some players to join Empty Lobbies
+	- Fixed a bug that caused the War Mech cosmetic to be removed from the Supporter Pack
+	- Fixed a bug that caused you to be able to equip the War Mech head separately from the Body
+	- Fixed a bug where the Air Sphere protecting your real Body while you're in Spirit Form
+	- Fixed a bug where the Earth Hands were not grabbing some objects
+	- Fixed a bug where you would stay in Spirit Form when the Round ends
+	- Fixed a bug where the Spirit Form was appearing weird in third-person LIV streamer camera
+	- Fixed a bug where there was a floating tree on the Hub World Islands
+- Earth
+	- Lava
+		- Decrease Lava Shuriken charge time from 0.2s -> 0.1s
+		- Decrease Lava Shuriken gravity
+		- Increase Lava Rush size from 7m -> 12m
+		- Increase Lava Stream grab acceleration
+- Water
+	- Water (Base)
+		- Decrease Ice Wall Might from 4/6 -> 3/5
+		- Decrease Water Wave Stasis Range to match the rest of the moves
+	- Plant
+		- Decrease Plant Turret Attack Range from 20m -> 15m
+- Fire
+	- Fire (Base)
+		- Make it so that Burning can't kill Players (affects both Burning Embrace and Blue Fire)
+		- Added a Setting that makes the Flamethrower end immediately
+	- Lightning	
+		- Added a new Lightning Sword move
+		- Change controls of Lightning Orb
+		- Increase Lightning Dash range from 6m/12m -> 9m/18m
+		- Increase Lightning Orb speed
+- Air
+	- Spirit
+		- Added a new Spirit Sword move
+		- Increase Spirit Form Acceleration
+		- Increase Spirit Form Range from 50m -> 60m
+```
+
+

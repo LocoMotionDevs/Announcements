@@ -1,0 +1,13 @@
+**Elements Divided Update 25 – Hotfix 1 – DAY ONE PATCH**
+**Version 524**
+
+*Changelog:* 
+```
+Reset ALL Beta Testers game progress and save data
+Added localization for any new strings of text
+Added News Board UI
+Added analytics for level ups
+Updated Cosmetic Tiers and Unlock conditions
+Fixed a bug that caused timeout or freezing issues on loading
+Fixed a bug that caused some Elite helmets to display incorrectly
+```

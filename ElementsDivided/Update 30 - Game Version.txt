@@ -1,0 +1,95 @@
+**Elements Divided Update 30**
+**Version 605**
+
+*Changelog:* 
+```
+This changelog is extraordinarily long, make sure to scroll all the way down to see all changes!
+
+Broad Changes:
+- Added Ascended Master Game Mode
+	- Control all 4 Elements at once in this new Game Mode!
+- Added Sci Fi City Map
+- Added Blue Fire Technique
+- Added new Tournament Shaders
+	- These shaders are infectious… to unlock them, you’ll have to beat someone else who already unlocked them, starting with the tournament winners!
+	- Added Pathogen (Developers)
+	- Added Captain (CapClimb)
+	- Added United (Mr. Magikarp)
+	- Recategorized Carp Magic (Mr. Magikarp)
+	- Added Buster 2077 (TheNamesBuster)
+- Added new Tournament Animals
+	- Added Dragon (CapClimb)
+	- Added Penguin (TheNamesBuster)
+- Added almost 100 new cosmetics
+	- Usually we would list them here, but there are too many to list. You can find a list here: https://tinyurl.com/BlazingBlueCosmetics
+- Added a Terms of Service and Code of Conduct
+- Added new Interaction zone to Element pads
+- Added better logs for crashes or issues on game startup
+- Added a debug option to show your full User ID in the Main Menu
+- Added pop up screen to Main Menu when game is out of date
+- Added Highlights to Technique Stats, increases and decreases now have different colors
+- Added text when not enough players to start a FFA or Teams match
+- Added Color damage percent in knockout by team color if playing Teams mode
+- Added settings panel to Main Menu
+- Added Version number added to Main Menu
+- Adjusted player info panel, clicking anywhere on the edges of besides a button now closes it
+- Update Liv Creator Kit to version 1.3.5
+	- Previous version in Elements Divided was v1.2.3
+	- This fixes a bug that caused some videos to corrupt
+	- There are new features, see https://lck-docs.liv.tv/changelog for all changes since v1.2.3
+- Fixed a bug that allowed FFA matches to start with too few non-spectators
+- Fixed a bug where players can't respawn in hub world if co-op is selected
+- Fixed a bug where players could clip under the chessboard and octagon maps
+- Fixed a bug where players could survive the full size Death Wall by standing in the middle 
+- Fixed a bug where some players would have missing parts on their avatars
+
+Might Changes:
+Might is different now! It now works as every ability has a single Might value that determines its damage and its durability:
+When a move hits you, it damages a number of segments of your health bar equal to its Might. (Previously, some moves acted like this, some moves did 0.7x that damage, and some moves did about 1.5x that damage.)
+Each move has a Durability score, which is usually equal to its Might - 1. When you hit another move, if the other move's Might is equal to or higher than your durability, you break. Some moves are invulnerable to breaking in this way.
+Numbers have been rebalanced across the board. The damage values were inconsistent before, so some of these changes are approximate, but here are some highlights:
+
+- Nerf large icicle Might from 6 -> 5
+- Nerf charged fire bolt explosion Might from 3 -> 2
+- Nerf air ball damage from 35 -> 30
+- Nerf air blast Might from 2 -> 1
+- Increase small boulder Might from 2 -> 3
+
+Balance Changes:
+- General
+	- Make some attacks invulnerable while grabbed
+	- Normalize fatal might values across the board, making all abilities more sturdy
+	- Add minimum relative velocity to some attacks
+	- Make damage bonuses not increase knockback
+	- Nerf Double Edged and Vengeful Rage from +35% damage to +25% damage
+	- Changed all damage techniques to stack additively
+	- Buff close combat from 5m radius to 7m radius
+	- Reduce the amount you can control and move distant abilities
+	- Made it harder to clip through walls, especially with the water tentacles and earth hands
+- Earth
+	- Nerf tremorsense from +50% damage to +30% damage
+	- Nerf mountain from +40% size to +30% size
+	- Make walls not break when they hit a player
+	- Make walls not able to multihit after being thrown
+- Water
+	- Decrease stamina cost of bubble/snowstorm from 2 to 1
+	- Reduce large icicle might from 6 to 5
+	- Remove water grapple damage
+	- Remove max speed bonus from squid-man
+	- Nerf absolute zero from +25% damage to +15% damage
+	- Buff charged geyser might from 2 -> 4
+	- Nerf charged wave might from 5 -> 4
+	- Make wave not break when it hits a player
+	- Make wave not able to multihit after being thrown
+- Fire
+	- Decrease fire heat charge time from 3s to 2.5s
+	- Nerf scorched earth from +30% damage to +20% damage
+	- Buff charged fire arrow speed from 30m/s to 35m/s
+	- Nerf fire shield perfect block window from .5s to .3s
+	- Reduce fire laser might from 6 to 3
+	- Buff charged fire bolt explosion knockback by +50%
+- Air
+	- Reduce air blast might from 2 to 1
+	- Buff air blast knockback by +200%
+and many more changes that you can see in this table with all the numbers in the game: https://tinyurl.com/ElementsBalanceNumbers
+```

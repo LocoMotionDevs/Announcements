@@ -1,0 +1,15 @@
+**Elements Divided Update 31 – Hotfix 1**
+**Version 629**
+
+*Changelog:* 
+```
+- Added Max Speed Game Setting
+- Update Unity Version
+- Improved Moderation
+- Fixed a bug where text would overflow on the Main Menu
+- Fixed a bug with some materials on the Chicken Statue and Sci-Fi City Map
+- Fixed a bug where Spectator ghosts would set off electric fences
+- Fixed a bug where Hover enemies would float up and down off stage
+- Fixed a bug where the Streamer camera would show an incorrect screen when in the Main Menu on PCVR (now shows a “Streamer in main menu…” screen).
+- Fixed a bug where the Temple Quadrant statue collider wasn’t working properly
+```

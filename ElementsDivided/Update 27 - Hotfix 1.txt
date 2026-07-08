@@ -1,0 +1,8 @@
+**Elements Divided Update 27 – Hotfix 1**
+**Version 548**
+
+*Changelog:* 
+```
+- Fixed a bug that caused users to be unable to connect to voice chat
+- Fixed a bug that caused users who joined in the middle of Rounds to respawn when killed
+```

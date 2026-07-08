@@ -1,0 +1,30 @@
+**Elements Divided Update 29 – Hotfix 1**
+**Version 583**
+
+*Changelog:* 
+```
+- Added three Custom Game settings to Public Lobbies
+	- Max Players
+	- Capture Point
+	- (NEW) Powerups
+		- Scattered around all maps except Space Rings and Quadrants
+			- Health Pack
+			- Ultimate Charge
+			- Damage Boost
+			- Speed Boost
+- Added Knockout Mode 
+- Added a notification that shows when your game is out of date 
+- Added text highlighting to Character Customization tabs
+- Update Unity Version
+- Rework Aerial Artistry
+	- 50% gravity is now > +1 air jumps
+	- Fixes a bug that allowed for infinite flight
+- Fixed a bug that would cause you to respawn with the incorrect amount of health in Co-Op
+- Fixed a bug that caused Earth Walls to not have haptics when detaching from ground
+- Fixed a bug where some VFX would duplicate, including Air Vortex, Air Laser, and Ancient Egypt Cannon
+- Fixed a bug with a collider on Ancient Egypt
+- Fixed a bug that caused the Play UI screensaver to not be properly centered
+- Fixed a bug that caused the Spectator Icon in the Player List to be stretched
+- Fixed a bug where usernames with spaces would display strangely in VoicePatrol dashboard
+- Fixed a bug that caused the VoicePatrol violations to use the System clock
+```

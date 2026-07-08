@@ -1,0 +1,13 @@
+**Elements Divided Update 26 – Hotfix 1**
+**Version 533**
+
+*Changelog:* 
+```
+Added Crash Analytics
+Added an extra level backup layer 
+Added error messages to Main Menu when you fail to launch the game
+Fixed a bug where players would stay in voice after leaving a lobby
+Fixed a bug that will cause you to lose all your XP gains if you leave a match midway through
+(maybe) Fixed Application Not Responding bug by not saving settings on quit
+```
+

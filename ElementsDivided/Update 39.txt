@@ -1,0 +1,14 @@
+**Elements Divided Update 39**
+**Version 707**
+
+*Changelog* 
+```
+- Added New Purchasable Cosmetics
+	- Added Fire Pack
+	- Elements United Bundle of all 4 Element themed packs coming soon!
+- Adjusted Chicken Model on Shop
+- Adjusted VoicePatrol
+- Decrease the Startup Delay between Summoning an Air Sword and Slashing with it
+- Fixed a bug where you could crash the game by spamming Poison Spores
+- Fixed a bug where you could fly by grabbing the Water Saw with the Tentacles
+```

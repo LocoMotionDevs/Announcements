@@ -1,0 +1,17 @@
+**Elements Divided Update 41 – Hotfix 1**
+**Version 736**
+
+*Changelog* 
+```
+- Adjusted Chessboard (Checkerboard for April Fools – Ended April 8th)
+- Added Tournament Shaders
+	- Shaders
+		- theElk [theElk]
+		- Alive.VR [Dragonrydz]
+		- SSDU [SSDU]
+- Added Virtual Bro Cosmetic Headgear
+- Fixed a bug where the Capture The Flag map was appearing in Random for other Game modes
+- Partially fixed some bugs on the Portal Mayhem Map colliders
+```
+
+

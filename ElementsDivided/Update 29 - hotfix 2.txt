@@ -1,0 +1,21 @@
+**Elements Divided Update 29 – Hotfix 2**
+**Version 588**
+
+*Changelog:* 
+```
+- Added option to disable pre-loading shaders
+- Added new UI to Capture Point showing capture time left and time remaining in time mode
+- Fixed a bug where you couldn't exit the tutorial through the doorway
+- Fixed a bug where Spectators were getting stock icons
+- Fixed a bug where Players were getting stuck in desert tower metal floor
+- Fixed a bug with the Capture Point ground fx
+- Fixed a big that allowed some abilities to grab death zones and invisible colliders
+- Fixed a bug where the Portal on sci-fi quadrant wasn't considered a stage hazard
+- Fixed a bug causing extremely long Voice mutes
+- Fixed a bug where switching elements with element pads when in rewards screen was possible
+- Fixed a bug where the player shield was the wrong color
+- Fixed a bug where some objects were not appearing metallic on Ancient Egypt map
+- Fixed a bug with the powerup glow on Steam
+- Fixed a bug with the cube particles on Ancient Egypt map
+- Fixed a bug where you would get too much XP after teleporting to spawn
+```
