@@ -1,0 +1,58 @@
+**Elements Divided Update 43 – Summer Beach Update**
+**Version 763**
+
+*Changelog* 
+```
+- Added Summer Beach Map
+- Decorated Hub World for Summer
+- Added In-Game Friend System
+- Added New Basic Abilities
+	- Earth Ball
+	- Fire Detonation
+- Added Summer Cosmetics
+	- Headgear
+		- Starfish
+		- Shark Fin
+		- Swimming Goggles
+	- Back
+		- Scuba Tank
+- Balance Changes
+	- Block
+		- Reduce block durability: 20 -> 15
+		- Block durability passively lost while holding
+		- Perfect block threshold: .25 -> .2
+		- Perfect block duration: .5 -> .25
+	- Fire
+		- Blue Fire no longer deals constant self damage continually held
+		- Stamina use of Fire Bolt -25%
+		- Increase Lightning Bolt ultimate range +20% 20 -> 25
+	- Water
+		- Stamina use of water stream -25%
+		- Water Torrent might +1
+		- Water Atom Bomb size and speed +25%
+		- Water grapple no longer uses stamina
+	- Air
+		- Stamina use of air stream - 25%
+		- Air Vortex ultimate range +20%
+		- Air Slash Trap ignores walls
+		- Air Slash Trap radius +50%
+		- Air Slash Trap speed +20%
+	- Earth
+		- Earth Death Trap now unbreakable to everything except Ice Trail
+		- Earth Meteor now unbreakable to everything except Ice Trail
+		- Earth Meteor speed +33%
+	- Metal
+		- Metal charging into Metal Shards uses stamina now
+		- Metal Shard initial speed boost +100%
+	- Spirit
+		- Improve Aim of Spirit Bolts
+	- Lightning
+		- Lightning Swords +50% size
+		- Lightning Swords base might 2 -> 3
+		- Uncharged Lightning Punch might 2 -> 1
+		- Improve Aim of Lightning Orb
+	- Storm
+		- Throw weaker Storm Bombs instantly instead of having to fully charge them
+- Fixed a bug caused lag when you click on Quickplay or Join lobby buttons
+- Fixed a bug with Unity authentication
+```
