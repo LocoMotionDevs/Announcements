@@ -1,9 +1,0 @@
-**Elements Divided IMPORTANT**
-
-*Changelog* 
-```
-- Added missing Localization strings
-- Fixed infinite Metal Blade Flight
-- Fixed a bug where the Main Menu Settings were going off screen
-- (Hopefully) Fixed various bugs with Authentication
-```
