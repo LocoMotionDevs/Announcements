@@ -1,0 +1,58 @@
+**Elements Divided Terms of Service**
+**Version 0**
+
+*Changelog:* 
+```
+<align="center"><size=60>Code of Conduct </size></align>
+We firmly believe in not tolerating toxicity in online gaming environments, especially multiplayer ones like ours. Our goal is for everyone regardless of who they are to be comfortable and safe in our game.
+Users who are found to be unmistakably toxic may be removed promptly, and without warning. Lesser issues will be dealt with in a manner that is appropriate to the level of offense.
+We encourage all players to treat others how they would want to be treated (nicely, we hope). We hope you have a good time in our game!
+<align="center"><size=60>Rules</size></align>
+<size=45>Rule 1</size>
+If you need support, email support@locomotiondevs.com
+If you have a bug to report, email bugs@locomotiondevs.com
+If you need to ban appeal or want information on your ban, email bans@locomotiondevs.com
+If you need to report someone, report them using the in-game button, and/or go to our <color=#44BBFF><u><link="https://forms.gle/gchMoVvbdrAWG9Du8">report form</link></u></color>.
+You can also get assistance with support and bugs on our <color=#44BBFF><u><link="https://discord.gg/bK6p7zcH3s">Discord server</link></u></color>. 
+<size=45>Rule 2</size>
+No bigotry or hate speech, such as but not limited to homophobia, transphobia, racism, sexism, ableism, antisemitism, etc. Respect all Players.
+<size=45>Rule 3</size>
+No trolling or purposely trying to annoy Players.
+<size=45>Rule 4</size>
+Doxxing or otherwise sharing a Players personal information is strictly forbidden.
+<size=45>Rule 5</size>
+No inappropriate usernames. Such as but not limited to anything NSFW, offensive, controversial, political, or harassing in nature.
+<size=45>Rule 6</size>
+We recommend you refrain from controversial, political, or heated discussions. 
+<size=45>Rule 7</size>
+Exploiting glitches, hacking, cheating, or anything that could be reasonably considered unfair or toxic gameplay, is against the rules. Example: Glitching under the map to win games or troll others. 
+<size=45>Rule 8</size>
+See something, say something. Help keep our game safe for others. If you notice something dangerous or against the rules happening, report them in game and go to our <color=#44BBFF><u><link="https://forms.gle/gchMoVvbdrAWG9Du8">report form</link></u></color>. 
+<align="center"><size=60>What tools do you use to moderate?</size></align>
+We use several systems to manage moderation concerns in game. This includes VoicePatrol, an automated moderation tool that listens to all voice chat, in game reports, player reports, human moderation, and potentially other tools. These are described below as to how they are used by us. 
+<size=45>VoicePatrol</size>
+VoicePatrol listens to all voice chat in Elements Divided. In public lobbies, it can also automatically apply temporary mutes upon hearing a violation, which increase in duration up to 24 hours the more violations you are muted for in a day. In private lobbies, it does not apply any automatic mutes, but it does still record violations. All of these violation recordings are saved to our dashboard, and may be reviewed at any time by moderators. 
+<size=45>In Game Reports</size>
+Players in-game can report any other player for one of 4 reasons, Verbal Abuse, Toxic Gameplay, Cheating, and Other. Each report is only counted once per user, players cannot be spam reported by other players. These reports do not allow you to provide any additional information other than the report reason you select. 
+<size=45>Player Reports</size>
+Players are also encouraged to fill out reports through our <color=#44BBFF><u><link="https://forms.gle/gchMoVvbdrAWG9Du8">Google Form</link></u></color>. These reports are much more thorough than the in-game reports. They allow you to provide exact descriptions of what was happening in-game, who was involved, who was witness to the situation, pictures or video, etc. We highly encourage you to fill out the Google Form whenever possible, as it is much easier for us to take action on moderation concerns when we have as much information as possible. 
+<size=45>Human Moderation</size>
+We use human moderators to apply any “permanent” bans, whether they are voice bans or online bans. We have no automated systems that apply permanent bans. If you have received a message on your screen that says you have been permanently banned, that is likely because a human moderator physically reviewed your account and applied that action. This means that human moderators may review VoicePatrol violations, in-game reports, player reports, ban appeals, and more. 
+
+<align="center"><size=60>What can happen to my account?</size></align>
+If your account is found to be breaking our rules, actively ignoring and failing to report other users breaking the rules, ban evading, or otherwise behaving against our Terms of Service and Code of Conduct, and more, you may receive either a Voice Ban (mute/deafen, which is the inability to connect to our voice chat) or an Online Ban (the inability to connect to or create any multiplayer lobbies). These are at the discretion of our moderators, and are based on the information we have about your account, including information gathered from all of the above tools and more. These bans may be any length of time, but are often permanent. 
+
+Being automatically muted for a violation does not constitute “serving your time” for that violation. We can and will still apply bans (either voice or online multiplayer) to player accounts that are reviewed and have violations that break the rules. 
+
+We may also use in-game, player reports, or other information to inform our moderation decisions. Other information may include but is not limited to, rule breaking behavior in our Discord servers, rule breaking behavior within other online games, rule-breaking behavior from any other online service or interaction. 
+
+Players found with extremely high amounts of reports may be banned (voice ban or online ban), depending on the circumstances. 
+
+Players may be banned for any reason, even those not mentioned in this Terms of Service, by human moderators, who deem the ban appropriate. 
+
+Any Player can learn more information about their ban or attempt to appeal a ban by emailing bans@locomotiondevs.com with their in-game username.
+
+If you want to know more about how information on your account is collected, processed, and stored, you can see our <color=#44BBFF><u><link="https://www.locomotiondevs.com/privacy-policy">Privacy Policy</link></u></color>.
+
+You must agree to these terms of service in order to access any online features of Elements Divided.
+```

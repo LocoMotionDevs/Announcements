@@ -1,0 +1,15 @@
+**Elements Divided Game Credits**
+**Version 0**
+
+*Changelog:* 
+```
+Sound Attributions Under Creative Commons
+Boing Sound by SiliconeSound -- https://freesound.org/s/595465/ -- License: Attribution 4.0
+custom_monster_footstep_sounds_01132025 by Artninja -- https://freesound.org/s/785221/ -- License: Attribution 4.0
+Synth Power Change by qubodup -- https://freesound.org/s/211997/ -- License: Attribution 4.0
+Poison Squelch by moogleoftheages -- https://freesound.org/s/773909/ -- License: Creative Commons 0
+Some sounds from ZapSplat
+Hand icons created by Pixel perfect - Flaticon
+Open hands icons created by Icon Mart - Flaticon
+Fist icons created by Freepik - Flaticon
+```
