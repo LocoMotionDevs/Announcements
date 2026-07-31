@@ -1,0 +1,29 @@
+**Elements Divided Update 44**
+**Version 790**
+
+*Changelog* 
+```
+- Added Skill Based Matchmaking
+- Added 8 new Ultimates
+	- Lava Eruption
+	- Metal Blade Rain
+	- Blood Flamethrower
+	- Leaf Tornado
+	- Fire Rain
+	- Explosive Nova
+	- Spirit Orb
+	- Storm Prison
+- Added Tournament Shader
+	- Manny
+	- Soa.p
+- Added Tournament Animals
+	- Yellow Big Wolf (Cornosgg)
+	- Big Crow (Valhalla)
+	- Big Blue Lobster (soulesscomposer)
+	- Jimmy (Sir_Zeronaro and DC_VR)
+- Improved Patch Note loading on News Board
+- Increased quality for clips shown in game, such as clips shown on tutorial boards
+- (Hopefully) Fixed a bug with Backup Save Data
+- Prevent bugs with certain User Interface screens if you have an invalid Ultimate Ability equipped
+- Removed Beach Theme from Hub World
+```
