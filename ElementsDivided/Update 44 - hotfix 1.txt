@@ -1,0 +1,63 @@
+**Elements Divided Update 44 – Hotfix 1**
+**Version 794**
+
+*Changelog* 
+```
+- Added Ranked 1v1 Mode
+- Added Kill Feed notifications
+- Added US Central servers
+- (Hopefully) Fixes a bug causing level backups to fail
+- (Hopefully) Fixes a bug causing you to be stuck in an endless loading screen when joining a Friend’s lobby fails
+- Fixed a bug that was making Skill Based Matchmaking send you to empty Lobbies too often
+- Do giant amounts of Balance changes
+	- General
+		- Nerf Blocking by making its Durability slower to regenerate after taking damage
+		- Once the Damage Zone has started, any new Players who join do so as Spectators
+		- Increase the minimum Player capsule height slightly
+		- Increase the Duration that Dash makes you non-Grabbable
+		- Make it so Ultimate moves can't be Grabbed by Air Vacuum or similar moves
+	- Earth:
+		- Increase the damping on Aerial Obliterator so it activates slower
+		- Decrease the AOE of the Earth Ball Shockwave
+		- Decrease the animation Speed of the Lava rush (particle system Speed, collider timing, Floor spawn timing)
+		- Increase Might of Lava Stream by 1
+		- Make the Lava Stream spawn a big Lava Floor
+		- Slightly decrease the Duration of Lava Floors
+		- Increase the Might of Lava Eruption from 2 to 6
+		- Make Lava Eruption spawn a large Lava Floor where it appears
+		- Increase the Stamina cost of "Charge 2h Metal, split into Shards, throw Shards"
+		- Increase the Speed of the Metal Shards Punched out of the Charge
+		- Decrease Gravity of Metal Shards
+	- Water
+		- Increase Durability of Water Saw by 1
+		- Increase Durability of Water Stream by 1
+		- Increase knockback of Water Stream by 1
+		- Increase the AOE in which the Water ring Grabs Projectiles
+		- Increase the AOE of the Water ring Explosion
+		- Make Ice Trail only come from Charged underground holds
+		- Give the Blood Grab a minimum hold time before it can siphon
+		- Make Blood Flamethrower Pierce through Block
+		- Increase Durability of Vine Snake by 1
+		- Increase Durability of Vine Segment by 1
+		- Make Vine Segment not die when it touches a Player
+	- Fire
+		- Decrease heat Charge time from 2.5s to 2s
+		- Make it so the double-jump move uses a fuel bar that refills as you stay on the ground, so if you keep holding the input and land on the ground it'll regain fuel and keep pushing you
+		- Increase the Speed of Fire Rain Meteors
+		- Make Fire Rain Meteors more erratic
+		- Fire Rain should ignore Spectators
+		- Increase Gravity of Explosive Arrows
+		- Increase the Might of Explosive Nova from 8 to 10
+	- Air
+		- Decrease Bomb Charge time from 2.5s to 2s
+		- Air Tornadoes should launch Players upwards, like the Leaf Tornado
+		- Increase Acceleration of Air Glider
+		- Increase Acceleration of Air Wheel
+		- Increase Might of Air Bomb by 1 (just the Projectile, not the Explosion)
+		- Storm Tornadoes should semi-track nearby Players, like the leaf Tornado
+		- Decrease Spirit Form range to 30m
+		- When outside the Spirit Form range, pull the Spirit back towards the body instead of immediately ending the move
+		- Decrease the radius of the Spirit Bomb Explosion by half
+		- Make Storm Prison Pierce through Block
+		- Make Storm Prison pull Players inwards
+```
