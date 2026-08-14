@@ -1,0 +1,10 @@
+**Elements Divided Update 44 – Hotfix 2**
+**Version 796**
+
+*Changelog* 
+```
+- Fix a bug where hosting a lobby wouldn't always work correctly
+- Fix a bug where trying to host a private lobby could take over an existing public lobby
+- Fix the "make host" button overlapping with techniques
+- (Hopefully) Finally fix a bug where you'd occasional lose levels
+```
