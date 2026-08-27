@@ -1,0 +1,9 @@
+**Elements Divided Update 44 – Hotfix 3**
+**Version 799**
+
+*Changelog* 
+```
+- Rerouted Voice Chat so you can now hear others in recordings
+	- Please let us know if you notice anything weird with Voice Chat
+- Fixed a bug with Back - Robo Spider having weird geometry
+```
