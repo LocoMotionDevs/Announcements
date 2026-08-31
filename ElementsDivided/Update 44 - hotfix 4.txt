@@ -1,0 +1,8 @@
+**Elements Divided Update 44 – Hotfix 4**
+**Version 800**
+
+*Changelog* 
+```
+- Fixed some spam in our error logs
+- Fixed some bugs with Voice Chat
+```
