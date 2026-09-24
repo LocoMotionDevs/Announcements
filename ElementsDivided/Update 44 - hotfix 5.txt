@@ -1,0 +1,11 @@
+**Elements Divided Update 44 – Hotfix 5**
+**Version 807**
+
+*Changelog* 
+```
+- Added Casual 1v1 option to Lobby Gamemode options
+- Buff Fire Jetpack
+- Improve Voice Chat quality
+- Fixed a bug that caused broken Deafening
+- Fixed a bug where the tutorial could be loaded into any lobby
+```
