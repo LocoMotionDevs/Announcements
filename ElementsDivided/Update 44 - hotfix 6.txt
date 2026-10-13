@@ -1,0 +1,15 @@
+**Elements Divided Update 44 – Hotfix 6**
+**Version 811**
+
+*Changelog* 
+```
+- Added Crowd reactions
+	- Crowd cheers when KO’ing another player or Co-Op Bot
+	- Crowd boos during a self-destruct or losing in Co-Op
+- Fixed a bug where the Valhalla Shader was forcibly overriding your choice of colors for Skin, Eyes, and Hair
+- Fixed a bug where Co-Op would always say Victory even if you lost
+- Fixed a bug where Pharoah's Fortress was appearing in Random
+- Fixed a bug where Players were still able to interact between boards in 1v1 Mode
+- Fixed a bug where Players were not joining as Spectator when joining mid match
+- Fixed a typo in a Technique
+```
