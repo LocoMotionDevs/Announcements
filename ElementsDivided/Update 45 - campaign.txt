@@ -1,0 +1,44 @@
+**Elements Divided Update 45 – Campaign Update**
+**Version 827**
+
+*Changelog*
+```
+- Added Campaign Mode
+	- Play through a series of story-driven Co-Op Missions
+	- Found under Cooperative in the Play menu
+	- Beat a Campaign to unlock its next Difficulty
+- Added 4 Campaigns
+	- Fire in the Machine
+		- SufferCorp's machines are tearing through the city. Fight through their operation and shut the reactor down.
+	- Undertow Conspiracy
+		- A robbery at the beach leads into SufferCorp's hidden conspiracy. Follow the trail and bring it into the open.
+	- Relics of the Living Desert
+		- SufferCorp is hunting an ancient desert artifact. Protect the people in their path and keep the relic safe.
+	- The Wind Against Steel
+		- SufferCorp is raiding the temples. Defend the shrines and drive their champions out.
+- Added 2 Unlockable Campaigns
+	- Boss Rush
+		- Fight every boss in one battle
+		- Unlocked by beating all 4 Campaigns on Normal or higher
+	- The Old Master
+		- The Old Master wants to test your power himself
+		- Unlocked by beating Boss Rush on Normal or higher
+- Added 2 new Bosses
+	- Bloodbloom
+	- Subelement Specialist
+- Added Campaign Music
+- Added Boss spawn sound effect
+- Adjusted Co-Op Difficulty
+	- Higher Difficulties now add more enemies and faster attacks instead of mostly more Health and Damage
+- Improved Co-Op Enemy AI
+	- Enemies spread their attacks across players
+	- Enemies telegraph their attacks
+	- Enemies path around walls
+	- Reworked attacks and movement for several enemies
+- Optimized Co-Op enemy performance
+- Reverted Halloween Sky
+- Added a Forcefield effect to the Casual 1v1 board separators when you get close
+- Fixed a bug when leaving a Co-Op Mission
+- Fixed a bug with Death Zones in the Tutorial
+- Fixed some errors with UI screens, Level Backups, and Quest Achievements
+```
