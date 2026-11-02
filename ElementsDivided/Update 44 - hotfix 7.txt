@@ -1,0 +1,14 @@
+**Elements Divided Update 44 – Hotfix 7**
+**Version 816**
+
+*Changelog* 
+```
+- Added Halloween Decorations
+- Added Halloween Sky
+- Updated a Tomahawk error message to be less confusing
+- Halloween Cosmetics are available again (can be unlocked for limited time)
+	- Enter codes in the Join Game section
+		- Pumpkin Head Code EVENT ENDED
+		- Jack O Shader Code EVENT ENDED 
+```
+
