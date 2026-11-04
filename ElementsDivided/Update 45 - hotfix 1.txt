@@ -1,0 +1,23 @@
+**Elements Divided Update 45 – Hotfix 1**
+**Version 829**
+
+*Changelog*
+```
+Fixed Old Master being invincible in the tutorial
+Fixed Desync issues
+Real Steel avatar recoloring works again
+Fixed hit material effects failing on objects hit right after spawning
+Fixed Chicken Minion errors when it gets stuck
+Fixed rare errors from extremely fast collisions and spline movement
+Fixed the EXP popup erroring when using hand tracking
+Fixed Steam shutting down on scene change, breaking achievements and Steam features
+Fixed air sphere blocks erroring on some attacks
+Ban message now tells players to restart the game before emailing an appeal
+Camera shake now falls off more quickly with distance
+Renamed "Fix Angular Velocity" to "Fix Controller Rotation Speed (Oculus PCVR)"
+Banned players can still access their in-app purchases in singleplayer
+Smoke invisibility now hides your head on the LIV camera
+Quick play can no longer join a private lobby as it's being created
+Players no longer respawn, and the damage zone stops closing, after a match ends
+Added a setting to make spectator flight follow your look direction
+```
