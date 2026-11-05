@@ -1,0 +1,7 @@
+**Elements Divided Update 45 – Hotfix 2**
+**Version 830**
+
+*Changelog*
+```
+- Fixed a bug where you could get soft locked in the tutorial by killing the Old Master before you were intended to
+```
